@@ -56,10 +56,9 @@ We may request to send you push notifications regarding your account or certain 
 
 ## Contact Us
 
-If you have questions or comments about this Privacy Policy, please contact us at [Contact Information].
+If you have questions or comments about this Privacy Policy, please contact us at:
 
-[Your Company Name]  
-[Your Company Address]  
-[Your Company Email]  
-[Your Company Phone Number]
+Shadman Ahmed  
+New York, NY
+shadman@shadman.cc
 
